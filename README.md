@@ -1,4 +1,4 @@
-# spacechem-archive
+# spacechem-leaderboard
 Machine-readable solutions for SpaceChem (http://www.zachtronics.com/spacechem)
 
 ## What's in here
