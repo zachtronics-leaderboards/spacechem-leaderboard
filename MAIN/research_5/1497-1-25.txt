@@ -1,4 +1,4 @@
-SOLUTION:Right All Along,wincon (gemini-4-argon),1500-1-25,1500-1-25
+SOLUTION:Right All Along,12345ieee,1497-1-25,unclankered
 COMPONENT:'drag-largeoutput-reactor',2,0,''
 MEMBER:'instr-start',-90,0,128,2,6,0,0
 MEMBER:'instr-start',-90,0,32,2,5,0,0
@@ -10,27 +10,27 @@ MEMBER:'feature-sensor',-1,0,1,4,0,0,0
 MEMBER:'instr-arrow',90,0,64,0,5,0,0
 MEMBER:'instr-sync',-1,0,128,0,6,0,0
 MEMBER:'instr-arrow',0,0,64,0,7,0,0
-MEMBER:'instr-grab',-1,0,128,1,5,0,0
+MEMBER:'instr-grab',-1,1,128,1,5,0,0
 MEMBER:'instr-arrow',180,0,64,2,5,0,0
 MEMBER:'instr-input',-1,1,128,2,5,0,0
 MEMBER:'instr-arrow',-90,0,64,2,7,0,0
-MEMBER:'instr-grab',-1,0,128,2,7,0,0
+MEMBER:'instr-grab',-1,2,128,2,7,0,0
 MEMBER:'instr-arrow',90,0,16,1,1,0,0
-MEMBER:'instr-grab',-1,0,32,1,1,0,0
+MEMBER:'instr-grab',-1,1,32,1,1,0,0
 MEMBER:'instr-sync',-1,0,32,1,6,0,0
 MEMBER:'instr-arrow',0,0,16,1,7,0,0
 MEMBER:'instr-bond',-1,0,32,1,7,0,0
 MEMBER:'instr-arrow',180,0,16,2,1,0,0
-MEMBER:'instr-input',-1,0,32,2,2,0,0
+MEMBER:'instr-input',-1,0,32,2,1,0,0
 MEMBER:'instr-sync',-1,0,32,2,4,0,0
 MEMBER:'instr-arrow',-90,0,16,2,6,0,0
-MEMBER:'instr-grab',-1,0,32,3,6,0,0
+MEMBER:'instr-grab',-1,2,32,3,6,0,0
 MEMBER:'instr-bond',-1,0,32,3,7,0,0
 MEMBER:'instr-arrow',180,0,16,4,6,0,0
-MEMBER:'instr-output',-1,0,32,4,6,0,0
 MEMBER:'instr-arrow',-90,0,16,4,7,0,0
 MEMBER:'instr-sensor',0,0,32,4,7,0,6
+MEMBER:'instr-output',-1,0,32,6,7,0,0
 MEMBER:'instr-arrow',180,0,16,7,7,0,0
-MEMBER:'instr-grab',-1,0,32,7,7,0,0
+MEMBER:'instr-grab',-1,2,32,7,7,0,0
 PIPE:0,4,1
 PIPE:1,4,2
